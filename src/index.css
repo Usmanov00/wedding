@@ -177,6 +177,10 @@ body {
     padding: 0;
 }
 
+iframe {
+    width: 100%;
+}
+
 .copyright {
     padding:  10px;
     font-weight: 500;

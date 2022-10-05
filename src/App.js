@@ -24,7 +24,7 @@ function App() {
       <div className="main">
         <div className="mainText">
           <div className="about">
-            <p className="about_text">Мы рады сообщить Вам, что 5 сентября 2022 состоится самое главное торжество <br/>
+            <p className="about_text">Мы рады сообщить Вам, что 8 октября 2022 состоится самое главное торжество <br/>
               в нашей жизни - <br/>
               день нашей свадьбы!</p>
             <br/>

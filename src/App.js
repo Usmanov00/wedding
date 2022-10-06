@@ -66,15 +66,6 @@ function App() {
           <span>23:00</span>
           <p className="timing_time_txt">окончания банкета</p>
         </div>
-       <div className="map">
-         {/* eslint-disable-next-line jsx-a11y/iframe-has-title */}
-         <iframe
-           src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2926.4532592350456!2d74.6235815!3d42.8210385!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2skg!4v1664291625662!5m2!1sen!2skg"
-           width="600" height="450" allowFullScreen="" loading="lazy"
-           referrerPolicy="no-referrer-when-downgrade">
-
-         </iframe>
-       </div>
       </div>
       <p className="copyright">USMANOV</p>
     </div>
